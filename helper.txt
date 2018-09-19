@@ -1,0 +1,6 @@
+For install npm packages from package.json
+// npm install --save
+// npm update --save
+
+const pathToExtension = require('path').join(__dirname, 'my-extension');
+
